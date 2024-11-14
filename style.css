@@ -18,7 +18,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background-image: linear-gradient(to bottom, magenta, yellow, tomato); */
+  background-image: linear-gradient(to bottom, magenta, yellow, tomato);
 }
 svg path {
   fill: transparent;
